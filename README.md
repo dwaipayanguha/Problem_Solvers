@@ -1,4 +1,2 @@
 # Problem_Solvers
-Here our main application is in the build file. You have to download our code and run the excecutable file named 
-## Alarm_or_Sleep.exe. 
-To enjoy our features for windows pc.
+This version includes all the code in Spyder. The training data and alarm used is also included in the file. Main.py is the menu which redirects to Sleep.py and Alarm.py according to user's choice
