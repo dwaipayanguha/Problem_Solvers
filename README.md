@@ -2,4 +2,6 @@
 Here our main application is in the build file. You have to download our code and run the excecutable file named 
 ## Alarm_or_Sleep.exe. 
 To enjoy our features for windows pc.
-<iframe width="320" height="240" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1"></iframe>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
